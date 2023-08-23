@@ -7,14 +7,13 @@
   - I'm a Nurse , from Concepción, Chile ❤️
   - I'm currently learning Android Development 😉
   - 📫 How to reach me: f.hidalgoalarcon@gmail.com
+  <br/>
 
 <a href="https://github.com/Scariu/github-readme-stats">
   <img height=165 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Scariu&layout=compact" />
-</a>
-
-
-<a href="https://github.com/Scariu/convoychat">
+ <br/>
   <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=Scariu&show_icons=true&theme=dark" />
+ <br/>
 </a>
 
 <h3 align="center">
