@@ -2,19 +2,22 @@
 <h1 align="left">Hi ✌️, I'm <a href="https://www.linkedin.com/in/florencia-hidalgo-83315a1ab/" target="_blank" rel="noopener noreferrer">Florencia Hidalgo Alarcón </a></h2>
 
 **ABOUT ME**
- <a href="https://github.com/Scariu"><img align='right' src='https://media1.giphy.com/media/gx54W1mSpeYMg/giphy.gif?cid=ecf05e47266jnol0jj3oaoidkjtenzq3ujhenxedx1d8gebx&ep=v1_gifs_search&rid=giphy.gif&ct=g' width='150"'></a></h2>
+<a href="https://github.com/Scariu">
+ <img align='right' src='https://media1.giphy.com/media/gx54W1mSpeYMg/giphy.gif?cid=ecf05e47266jnol0jj3oaoidkjtenzq3ujhenxedx1d8gebx&ep=v1_gifs_search&rid=giphy.gif&ct=g' height=500  width='1000"'></a></h2>
  
   - I'm a Nurse , from Concepción, Chile ❤️
   - I'm currently learning Android Development 😉
   - 📫 How to reach me: f.hidalgoalarcon@gmail.com
-  <br/>
 
-<a href="https://github.com/Scariu/github-readme-stats">
+
+ 
+
   <img height=165 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Scariu&layout=compact" />
- <br/>
+ 
+ <div>
+  
   <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=Scariu&show_icons=true&theme=dark" />
- <br/>
-</a>
+
 
 <h3 align="center">
 ✨ Where you can find me ✨
