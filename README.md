@@ -1,4 +1,10 @@
-### Hi there 👋
+<h2 align="left">Hi ✌️, I'm <a href="https://www.linkedin.com/in/florencia-hidalgo-83315a1ab/" target="_blank" rel="noopener noreferrer">Florencia Hidalgo Alarcón </a></h2>
+
+**ABOUT ME**
+
+  - I'm a Nurse , from Concepción, Chile ❤️
+  - I'm currently learning Android Development 😉
+  - 📫 How to reach me: f.hidalgoalarcon@gmail.com
 
 <!--
 **Scariu/Scariu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
