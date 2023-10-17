@@ -5,8 +5,7 @@
 <a href="https://github.com/Scariu">
  <img align='right' src='https://media1.giphy.com/media/gx54W1mSpeYMg/giphy.gif?cid=ecf05e47266jnol0jj3oaoidkjtenzq3ujhenxedx1d8gebx&ep=v1_gifs_search&rid=giphy.gif&ct=g' height=200></a></h2>
  
-  - I'm a Nurse , from Concepción, Chile ❤️
-  - I'm currently learning Android Development 😉
+  - I'm a Nurse and Android Developer, from Concepción, Chile ❤️
   - 📫 How to reach me: f.hidalgoalarcon@gmail.com
 
 
