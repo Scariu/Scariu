@@ -7,6 +7,7 @@
  
   - I'm a Nurse and Android Developer, from Concepción, Chile ❤️
   - 📫 How to reach me: f.hidalgoalarcon@gmail.com
+  - I'm always learning to one day be a great developer.
 
 
  
