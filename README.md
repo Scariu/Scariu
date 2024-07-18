@@ -10,15 +10,6 @@
   - I'm always learning to one day be a great developer.
 
 
- 
-
-  <img height=165 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Scariu&layout=compact" />
- 
- <div>
-  
-  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=Scariu&show_icons=true&theme=dark" />
-
-
 <h3 align="center">
 ✨ Where you can find me ✨
   <p align="center"><br/>
